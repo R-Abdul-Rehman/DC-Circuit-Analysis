@@ -1,6 +1,5 @@
 # DC-Circuit-Analysis
 Analysis and simulation of DC circuits using basic electrical laws
-# DC Circuit Analysis
 
 This project includes the analysis and simulation of DC circuits using fundamental electrical engineering principles.
 
